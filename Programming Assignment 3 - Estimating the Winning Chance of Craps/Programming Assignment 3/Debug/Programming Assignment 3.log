@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\invis\onedrive\documents\spring 2019\cis 3100\c++ projects\programming assignment 3\programming assignment 3\source.cpp(81): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Programming Assignment 3.vcxproj -> C:\Users\invis\OneDrive\Documents\Spring 2019\CIS 3100\C++ Projects\Programming Assignment 3\Debug\Programming Assignment 3.exe
