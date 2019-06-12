@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\invis\onedrive\documents\spring 2019\cis 3100\c++ projects\programming assignment 4\programming assignment 4\source.cpp(116): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\invis\onedrive\documents\spring 2019\cis 3100\c++ projects\programming assignment 4\programming assignment 4\source.cpp(229): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\invis\onedrive\documents\spring 2019\cis 3100\c++ projects\programming assignment 4\programming assignment 4\source.cpp(294): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\invis\onedrive\documents\spring 2019\cis 3100\c++ projects\programming assignment 4\programming assignment 4\source.cpp(300): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Programming Assignment 4.vcxproj -> C:\Users\invis\OneDrive\Documents\Spring 2019\CIS 3100\C++ Projects\Programming Assignment 4\x64\Debug\Programming Assignment 4.exe
